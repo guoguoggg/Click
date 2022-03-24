@@ -26,6 +26,7 @@ def botton():
             mouseUp()
 def get_enter(event):
     botton()
+    #输入
 #输入框
 frm1 = Frame(root)
 frm2 = Frame(frm1)
